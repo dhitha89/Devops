@@ -14,6 +14,9 @@ git checkout -b newbranch
 **Switch to an existing branch**
 git checkout newbranch
 
+**Pull a new branch created on Github repo to local**
+git fetch
+
 **Set email for this project only**
 git config user.email
 
